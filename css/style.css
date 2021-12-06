@@ -465,3 +465,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 20px;
 }
 }
+.sr-only {
+	font-size: 0;
+	height: 1px;
+	overflow: hidden;
+	display: block;
+  }
